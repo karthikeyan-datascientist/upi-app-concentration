@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+statsmodels
+scipy
+scikit-learn
+xgboost
+lifelines
+matplotlib
