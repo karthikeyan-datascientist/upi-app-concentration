@@ -1,4 +1,4 @@
-# UPI App Concentration: Data Analytics Capstone Synopsis
+# UPI App Concentration: Data Analytics Capstone Synopsis and Interim Report
 
 Market concentration (HHI) and share dynamics among UPI apps in India, using NPCI's public monthly
 "UPI Applications" tables (January 2022 - September 2026).
