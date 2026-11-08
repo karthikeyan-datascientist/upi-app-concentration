@@ -1,0 +1,55 @@
+file,file_month,title_month,rows,status
+Ecosystem-Statistics-UPI-Upi-applications-2022-Jan.xlsx,2022-01-01,2022-01-01,59,used
+Ecosystem-Statistics-UPI-Upi-applications-2022-Feb.xlsx,2022-02-01,2022-02-01,60,used
+Ecosystem-Statistics-UPI-Upi-applications-2022-Mar.xlsx,2022-03-01,2022-03-01,66,used
+Ecosystem-Statistics-UPI-Upi-applications-2022-Apr.xlsx,2022-04-01,2022-04-01,66,used
+Ecosystem-Statistics-UPI-Upi-applications-2022-May.xlsx,2022-05-01,2022-05-01,66,used
+Ecosystem-Statistics-UPI-Upi-applications-2022-Jun.xlsx,2022-06-01,2022-06-01,68,used
+Ecosystem-Statistics-UPI-Upi-applications-2022-Jul.xlsx,2022-07-01,2022-06-01,68,excluded: identical content to another month
+Ecosystem-Statistics-UPI-Upi-applications-2022-Aug.xlsx,2022-08-01,2022-08-01,66,used
+Ecosystem-Statistics-UPI-Upi-applications-2022-Sep.xlsx,2022-09-01,2022-09-01,66,used
+Ecosystem-Statistics-UPI-Upi-applications-2022-Oct.xlsx,2022-10-01,2022-10-01,63,used
+Ecosystem-Statistics-UPI-Upi-applications-2022-Nov.xlsx,2022-11-01,2022-10-01,63,excluded: identical content to another month
+Ecosystem-Statistics-UPI-Upi-applications-2022-Dec.xlsx,2022-12-01,2022-12-01,65,used
+Ecosystem-Statistics-UPI-Upi-applications-2023-Jan.xlsx,2023-01-01,2023-01-01,69,used
+Ecosystem-Statistics-UPI-Upi-applications-2023-Feb.xlsx,2023-02-01,2023-02-01,67,used
+Ecosystem-Statistics-UPI-Upi-applications-2023-Mar.xlsx,2023-03-01,2023-03-01,69,used
+Ecosystem-Statistics-UPI-Upi-applications-2023-Apr.xlsx,2023-04-01,2023-04-01,69,used
+Ecosystem-Statistics-UPI-Upi-applications-2023-May.xlsx,2023-05-01,2023-05-01,69,used
+Ecosystem-Statistics-UPI-Upi-applications-2023-Jun.xlsx,2023-06-01,2023-06-01,71,used
+Ecosystem-Statistics-UPI-Upi-applications-2023-Jul.xlsx,2023-07-01,2023-07-01,70,used
+Ecosystem-Statistics-UPI-Upi-applications-2023-Aug.xlsx,2023-08-01,2023-08-01,73,used
+Ecosystem-Statistics-UPI-Upi-applications-2023-Sep.xlsx,2023-09-01,2023-09-01,72,used
+Ecosystem-Statistics-UPI-Upi-applications-2023-Oct.xlsx,2023-10-01,2023-10-01,70,used
+Ecosystem-Statistics-UPI-Upi-applications-2023-Nov.xlsx,2023-11-01,2023-11-01,70,used
+Ecosystem-Statistics-UPI-Upi-applications-2023-Dec.xlsx,2023-12-01,2023-12-01,71,used
+Ecosystem-Statistics-UPI-Upi-applications-2024-Jan.xlsx,2024-01-01,2024-01-01,71,used
+Ecosystem-Statistics-UPI-Upi-applications-2024-Feb,2024-02-01,2024-02-01,69,used
+Ecosystem-Statistics-UPI-Upi-applications-2024-Mar,2024-03-01,2024-03-01,66,used
+Ecosystem-Statistics-UPI-Upi-applications-2024-Apr,2024-04-01,2024-04-01,70,used
+Ecosystem-Statistics-UPI-Upi-applications-2024-May,2024-05-01,2024-05-01,68,used
+Ecosystem-Statistics-UPI-Upi-applications-2024-Jun.xlsx,2024-06-01,2024-06-01,70,used
+Ecosystem-Statistics-UPI-Upi-applications-2024-Jul.xlsx,2024-07-01,2024-07-01,73,used
+Ecosystem-Statistics-UPI-Upi-applications-2024-Aug.xlsx,2024-08-01,2024-08-01,70,used
+Ecosystem-Statistics-UPI-Upi-applications-2024-Sep.xlsx,2024-09-01,2024-09-01,76,used
+Ecosystem-Statistics-UPI-Upi-applications-2024-Oct.xlsx,2024-10-01,2024-10-01,77,used
+Ecosystem-Statistics-UPI-Upi-applications-2024-Nov.xlsx,2024-11-01,2024-11-01,81,used
+Ecosystem-Statistics-UPI-Upi-applications-2024-Dec.xlsx,2024-12-01,2024-12-01,83,used
+Ecosystem-Statistics-UPI-Upi-applications-2025-Jan.xlsx,2025-01-01,2025-01-01,83,used
+Ecosystem-Statistics-UPI-Upi-applications-2025-Feb.xlsx,2025-02-01,2025-02-01,82,used
+Ecosystem-Statistics-UPI-Upi-applications-2025-Mar.xlsx,2025-03-01,2025-03-01,82,used
+Ecosystem-Statistics-UPI-Upi-applications-2025-Apr.xlsx,2025-04-01,2024-12-01,84,used (title month differs: relabeled by file name)
+Ecosystem-Statistics-UPI-Upi-applications-2025-May.xlsx,2025-05-01,2025-05-01,83,used
+Ecosystem-Statistics-UPI-Upi-applications-2025-Jun.xlsx,2025-06-01,2025-06-01,82,used
+Ecosystem-Statistics-UPI-Upi-applications-2025-Jul.xlsx,2025-07-01,2025-07-01,85,used
+Ecosystem-Statistics-UPI-Upi-applications-2025-Aug.xlsx,2025-08-01,2025-08-01,85,used
+Ecosystem-Statistics-UPI-Upi-applications-2025-Sep.xlsx,2025-09-01,2025-09-01,86,used
+Ecosystem-Statistics-UPI-Upi-applications-2025-Oct.xlsx,2025-10-01,2025-10-01,87,used
+Ecosystem-Statistics-UPI-Upi-applications-2025-Nov.xlsx,2025-11-01,2025-11-01,90,used
+Ecosystem-Statistics-UPI-Upi-applications-2025-Dec.xlsx,2025-12-01,2025-12-01,92,used
+Ecosystem-Statistics-UPI-Upi-applications-2026-Jan.xlsx,2026-01-01,2026-01-01,92,used
+Ecosystem-Statistics-UPI-Upi-applications-2026-Feb.xlsx,2026-02-01,2026-02-01,92,used
+Ecosystem-Statistics-UPI-Upi-applications-2026-Apr.xlsx,2026-04-01,2026-04-01,91,used
+Ecosystem-Statistics-UPI-Upi-applications-2026-Jul.xlsx,2026-07-01,2026-08-01,93,excluded: identical content to another month
+Ecosystem-Statistics-UPI-Upi-applications-2026-Aug.xlsx,2026-08-01,2026-08-01,93,used
+Ecosystem-Statistics-UPI-Upi-applications-2026-Sep.xlsx,2026-09-01,2026-09-01,96,used

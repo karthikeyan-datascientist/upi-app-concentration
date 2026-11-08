@@ -1,0 +1,12 @@
+{
+ "files": 54,
+ "data_rows": 4068,
+ "numeric_cells": 30691,
+ "text_numeric_cells": 8158,
+ "grouped_text_cells": 428,
+ "dash_cells": 774,
+ "hash_cells": 10,
+ "blank_cells": 619,
+ "zero_total_rows": 1,
+ "header_repeat_rows": 1
+}
