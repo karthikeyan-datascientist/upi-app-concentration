@@ -1,9 +1,9 @@
-pandas
-numpy
+pandas==2.3.3
+numpy==2.2.6
+scipy==1.15.3
+statsmodels==0.15.0
+scikit-learn==1.7.2
+xgboost==3.2.0
+lifelines==0.30.0
+matplotlib==3.10.9
 openpyxl
-statsmodels
-scipy
-scikit-learn
-xgboost
-lifelines
-matplotlib
